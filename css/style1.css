@@ -1,0 +1,57 @@
+*{
+	margin:0;
+	padding:0;
+}
+
+body{
+	clear:both;
+}
+
+
+.navbar-brand{
+	font-size:2em;
+}
+
+.navbar{
+	padding-top:10px;
+	height:80px;
+	text-align:center;
+	font-size:1em;
+}
+#left-top{
+    height:6px;
+	padding-top:2px;
+	padding-bottom:24px;
+}
+
+#nav{
+	text-align:center;
+}
+.pagination{
+	padding-top:-10px;
+	
+}
+
+.navbar{
+	text-align:center
+	
+}
+
+#panel{
+	text-align:center
+}
+
+.footer-top{
+	text-align:center
+}
+@media(max-width:750px){
+	#nav{
+		margin-top:-20px;
+	}
+	#nav li{
+		font-size:1em;
+		padding-top:-2px;
+		margin-bottom:2px;
+		margin-top:-16px;
+	}
+	}
